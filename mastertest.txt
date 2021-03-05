@@ -1,2 +1,4 @@
 Hi Im master in LOCAL
 hi im master in local ------2
+Hi IM ORIGIN/MASTER in repogitory
+Finally we are merged!!
