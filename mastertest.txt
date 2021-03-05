@@ -1,1 +1,2 @@
 Hi Im master in LOCAL
+Hi IM ORIGIN/MASTER in repogitory
